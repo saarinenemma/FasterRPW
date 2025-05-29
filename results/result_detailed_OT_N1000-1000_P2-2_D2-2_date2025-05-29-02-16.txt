@@ -1,0 +1,5 @@
+n:	1000	p:	2	d:	2	delta:	0.05	LMR-RPW:	0.02308	Time LMR:	0.88	Java Time LMR:	0.88	OUR-RPW:	0.02131	Time Ours:	3.22	Java Time Ours:	3.20	Time cost matrix:	1.70	
+n:	1000	p:	2	d:	2	delta:	0.05	LMR-RPW:	0.02287	Time LMR:	1.37	Java Time LMR:	1.36	OUR-RPW:	0.02118	Time Ours:	2.84	Java Time Ours:	2.83	Time cost matrix:	1.77	
+n:	1000	p:	2	d:	2	delta:	0.05	LMR-RPW:	0.02253	Time LMR:	0.85	Java Time LMR:	0.84	OUR-RPW:	0.02067	Time Ours:	2.99	Java Time Ours:	2.98	Time cost matrix:	1.79	
+n:	1000	p:	2	d:	2	delta:	0.05	LMR-RPW:	0.02651	Time LMR:	3.33	Java Time LMR:	3.33	OUR-RPW:	0.02514	Time Ours:	4.01	Java Time Ours:	4.00	Time cost matrix:	1.69	
+n:	1000	p:	2	d:	2	delta:	0.05	LMR-RPW:	0.02498	Time LMR:	1.44	Java Time LMR:	1.35	OUR-RPW:	0.02333	Time Ours:	3.26	Java Time Ours:	3.25	Time cost matrix:	1.67	
